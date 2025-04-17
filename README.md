@@ -61,13 +61,13 @@ Simply visit the live link above—no installation or build steps required.
 ## Tech Stack
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-  **HTML5 + CSS3** (Flexbox, Grid)  
+  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  **Vanilla JavaScript**  
+   
 - ![WebRTC](https://img.shields.io/badge/WebRTC-4D148C?style=flat&logo=webrtc&logoColor=white) ![Canvas API](https://img.shields.io/badge/Canvas_API-777777?style=flat)  
-  **WebRTC** (`getUserMedia`) + **Canvas API**  
+   
 - ![LocalStorage](https://img.shields.io/badge/LocalStorage-FFD600?style=flat)  
-  **LocalStorage** for persistence  
+   
 
 ---
 
